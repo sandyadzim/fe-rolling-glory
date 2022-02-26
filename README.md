@@ -77,7 +77,4 @@ Alasan: Saya lebih menguasai VueJS/NuxtJS dibanding dengan pilihan yang ada. Dan
 
 Saya kurang berpengalaman akan 2 hal tersebut. Jadi di test ini saya hanya mengerjakan apa yang saya pahami sejauh ini saja.
 
-## Demo
-
-Demo Test saya deploy di server Netlify [Project](https://fe-test-phone.netlify.app).
 
