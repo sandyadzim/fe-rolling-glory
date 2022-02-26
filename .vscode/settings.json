@@ -1,0 +1,11 @@
+{
+  "eslint.validate": ["javascript"],
+  "javascript.preferences.quoteStyle": "single",
+  "editor.formatOnSave": false,
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true
+  },
+  "scss.lint.unknownAtRules": "ignore"
+}
